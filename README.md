@@ -7,3 +7,5 @@
 ### Run Tests
 ```mvn test```
 ```mvn test```
+```mvn test```
+
